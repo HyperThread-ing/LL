@@ -5,3 +5,7 @@
 > 规划：
 >  >`陈凯`:`很期待下周的任务，希望可以学习很多东西，概率考试！！！！加油！！！！`
 >
+>Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+>
